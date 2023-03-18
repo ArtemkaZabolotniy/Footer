@@ -1,0 +1,148 @@
+body{
+color:white;
+background-color: #06040F;
+font-family: 'Manrope';
+font-style: normal;
+}
+.buyback{
+border: 1px solid white;
+width:500px;
+border-radius:10px;
+height:200px;
+margin-left:150px;
+margin-top:20px;
+}
+.el_cash{
+font-size:30px;
+text-align: center;
+}
+.knop_1{
+width:30px;
+height:30px;
+border-color:rgba(255, 255, 255, 0.1);
+border-radius: 100px;
+margin-left:50px;
+margin-top:-63px;
+}
+.svg_web{
+margin-top:60px;
+margin-left:25px;
+}
+.buyback_2{
+border: 1px solid white;
+width:500px;
+border-radius:10px;
+height:200px;
+margin-left:700px;
+margin-top:-202px;
+}
+.el_cash_2{
+font-size:30px;
+text-align: center;
+}
+.svg_web_2{
+margin-top:60px;
+margin-left:25px;
+}
+.knop_2{
+width:30px;
+height:30px;
+border-color:rgba(255, 255, 255, 0.1);
+border-radius: 100px;
+margin-left:110px;
+margin-top:-63px;
+}
+.buyback_3{
+border: 1px solid white;
+width:500px;
+border-radius:10px;
+height:200px;
+margin-left:150px;
+margin-top:20px;
+}
+.el_cash_3{
+font-size:30px;
+text-align: center;
+}
+.knop_3{
+width:30px;
+height:30px;
+border-color:rgba(255, 255, 255, 0.1);
+border-radius: 100px;
+margin-left:110px;
+margin-top:-63px;
+}
+.svg_web_3{
+margin-top:60px;
+margin-left:25px;
+}
+.buyback_4{
+border: 1px solid white;
+width:500px;
+border-radius:10px;
+height:200px;
+margin-left:550px;
+margin-top:-195px;
+}
+.el_cash_4{
+font-size:30px;
+text-align: center;
+}
+.knop_4{
+width:30px;
+height:30px;
+border-color:rgba(255, 255, 255, 0.1);
+border-radius: 100px;
+margin-left:110px;
+margin-top:-63px;
+}
+.svg_web_4{
+margin-top:60px;
+margin-left:25px;
+}
+.right_side{
+border: 1px solid white;
+margin-left:550px;
+position: absolute;
+margin-top: -330px;
+width:270px;
+text-align:center;
+height:280px;
+font-family: 'Manrope';
+font-style: normal;
+font-size:20px;
+}
+.china{
+font-size:30px;
+}
+.buy{
+font-size:20px;
+border: 1px solid white;
+background-color: #77BE1D;
+height:40px;
+padding:3px;
+margin-top: 10px;
+width:200px;
+margin-left:30px;
+border-radius:5px;
+}
+.buy_ok{
+font-size:13px;
+color:grey;    
+font-family: 'Manrope';
+font-style: normal;
+width:200px;
+margin-top:30px;
+margin-left: 35px;
+}
+textarea {
+resize: none;
+margin-top:30px;
+padding:20px;
+border-radius: 10px;
+margin-left: -552px;
+background-color: #06030F;
+font-size:20px;
+width:1010px;
+color:white;
+}
