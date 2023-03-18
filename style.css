@@ -607,3 +607,94 @@ color:White;
 margin-top:930px;
 margin-left:40%;  
 }
+@media(max-width:1024px){
+    .new_in_txt{
+    font-size:45px;
+    margin-left:-35px;
+    }
+
+    .new_in_png_1{
+        width:240px;
+        position: relative;
+        height:120px;
+        margin-left:-35px;
+    }
+
+    .new_in_png_2{
+        width:240px;
+        position: relative;
+        height:120px;
+        margin-left:10px;
+    }
+
+    .new_in_png_3{
+        width:240px;
+        position: relative;
+        height:120px;
+        margin-left:10px;
+    }
+
+    .pirat_1{
+        position: relative; 
+        margin-top:130px;
+        margin-left:-76%;
+        font-size:17px;
+    }
+
+    .pod_pirat_1{
+        position: relative; 
+        margin-top:155px;
+        margin-left:-76%;
+        font-size:13px;
+
+    }
+
+    .gay_gosling_1{
+        position: relative; 
+        margin-top:175px;
+        margin-left:-76%;
+        font-size:10px; 
+    }
+
+    .pirat_2{
+        position: relative; 
+        margin-top:130px;
+        margin-left:-51%;
+        font-size:17px;
+    }
+
+    .pod_pirat_2{
+        position: relative; 
+        margin-top:155px;
+        margin-left:-51%;
+        font-size:13px;
+
+    }
+    .gay_gosling_2{
+        position: relative; 
+        margin-top:175px;
+        margin-left:-51%;
+        font-size:10px; 
+    }
+
+    .pirat_3{
+        position: relative; 
+        margin-top:130px;
+        margin-left:-25%;
+        font-size:17px;
+    }
+
+    .pod_pirat_3{
+        position: relative; 
+        margin-top:155px;
+        margin-left:-25%;
+        font-size:13px;
+
+    }
+    .gay_goslin_3{
+        position: relative; 
+        margin-top:175px;
+        margin-left:-25%;
+        font-size:10px; 
+    }
+}
