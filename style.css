@@ -697,4 +697,94 @@ margin-left:40%;
         margin-left:-25%;
         font-size:10px; 
     }
+
+    .pipa{
+        display: none;
+    }
+    .to_the_star_1{
+    width:30px;    
+    margin-top:210px;
+    }
+
+    .absolutelygood_1{
+    width:20px;
+    margin-top:215px;
+    }
+
+    .to_the_star_2{
+    width:30px;    
+    margin-left:140px;
+    margin-top:210px;
+    }
+
+    .absolutelygood_2{
+    width:20px;
+    margin-left:145px;
+    margin-top:215px;
+    }
+
+    .to_the_star_3{
+    width:30px;   
+    margin-left:175px; 
+    margin-top:210px;
+    }
+
+    .absolutelygood_3{
+    width:20px;
+    margin-left:180px;
+    margin-top:215px; 
+    }
+
+    .to_the_star_4{
+    width:30px;    
+    margin-left:210px;
+    margin-top:210px;
+    }
+    
+    .absolutelygood_4{
+    width:20px;
+    margin-left:215px;
+    margin-top:215px;
+    }
+
+    .to_the_star_5{
+    width:30px;    
+    margin-left:245px;
+    margin-top:210px;
+    }
+
+    .absolutelygood_5{
+    width:20px;
+    margin-left:250px;
+    margin-top:215px;
+    }
+
+    .basun{
+        font-size:11px;
+        margin-top:240px;
+    }
+
+    .otziv_nixueviy{
+        margin-left: 145px;
+        margin-top:180px;
+    }
+
+    .step_sis{
+        display: none;
+    }
+
+    .step_brother{
+        display: none;
+    }
+
+    .god_fit{
+        margin-top: 10px;
+    }
+
+    .trust_pilot{
+        margin-top:285px;
+    }
+    .Big_star_yea{
+        margin-top:270px;
+    }
 }
